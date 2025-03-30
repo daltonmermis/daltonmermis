@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- Currently a student stuying International Business and a minor in Data Analytics at Seattle Pacific University
+- Student Athlete playing soccer
 <!--
 **daltonmermis/daltonmermis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
